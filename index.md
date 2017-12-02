@@ -2,6 +2,8 @@
 
 One of the first things people notice about me is the way I dress! 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
