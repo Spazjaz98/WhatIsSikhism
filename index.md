@@ -21,14 +21,15 @@ Hobbies are healthy.
 Here are some cool ones I do.
 
 1. Tabla
+![Image](http://www.freepngimg.com/download/tabla/3-2-tabla-transparent.png)
 2. Biking
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlOX_gef6N0-qu5xvi3D6R-GTaf9VXPOBqytwfworQGUVDc4V3A)
 3. Chess
+![Image](http://pngimg.com/uploads/chess/chess_PNG8435.png)
 4. Pokemon Go
+![Image](http://www.pngmart.com/files/2/Pokemon-Go-PNG-Image.png)
 
 
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
