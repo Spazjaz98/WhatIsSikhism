@@ -14,7 +14,9 @@ The other big component of my day is being a student at UIUC!
 Here is a link to UIUC's fun facts and bragging rights.
 Maybe its not worth $100 a day for four years (even the days I don't have classes!)
 But at least I'm not from out of state :P
+
 ![Image](http://identitystandards.illinois.edu/assets/images/i_mark_bold.png)
+
 
 ### Hobbies
 Hobbies are healthy. 
