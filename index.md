@@ -41,7 +41,6 @@ Here are some cool ones I do.
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
