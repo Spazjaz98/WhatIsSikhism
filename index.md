@@ -1,27 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to Jaskirat's World
 
-You can use the [editor on GitHub](https://github.com/Spazjaz98/jsingh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Sikhism
+Alot of people first see me and see my religion. 
+And for good reason considering this is what I look like.
+You can use the link below to learn more about my religion.
+[SikhVid] (https://www.youtube.com/watch?v=RskvZgc_s9g)
+Its a pretty funny video to keep you entertained for 5 mins
+starring a semi-funny comedian!
 
-### Markdown
+## Education
+The other big component of my day is being a student at UIUC! 
+Here is a link to UIUC's fun facts and bragging rights.
+Maybe its not worth $100 a day for four years (even the days I don't have classes!)
+But at least I'm not from out of state :P
+![Image](http://identitystandards.illinois.edu/assets/images/i_mark_bold.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hobbies
+Hobbies are healthy. 
+Here are some cool ones I do.
 
-```markdown
-Syntax highlighted code block
+1. Tabla
+2. Biking
+3. Chess
+4. Pokemon Go
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
