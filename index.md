@@ -5,7 +5,7 @@
 Alot of people first see me and see my religion. 
 And for good reason considering this is what I look like.
 You can use the link below to learn more about my religion.
-[SikhVid] (https://www.youtube.com/watch?v=RskvZgc_s9g)
+[SikhVid](https://www.youtube.com/watch?v=RskvZgc_s9g)
 Its a pretty funny video to keep you entertained for 5 mins
 starring a semi-funny comedian!
 
