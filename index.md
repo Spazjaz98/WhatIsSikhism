@@ -2,12 +2,12 @@
 
 #Important Links
 
-[*Applicants*](https://spazjaz98.github.io/jsingh/Applicants)
+# [*Applicants*](https://spazjaz98.github.io/jsingh/Applicants)
 
-[*GreatestWorks*](https://spazjaz98.github.io/jsingh/GreatestWorks)
+## [*GreatestWorks*](https://spazjaz98.github.io/jsingh/GreatestWorks)
 
 
-# Sikhism
+### Sikhism
 Alot of people first see me and see my religion. 
 And for good reason considering this is what I look like.
 You can use the link below to learn more about my religion.
@@ -15,7 +15,7 @@ You can use the link below to learn more about my religion.
 Its a pretty funny video to keep you entertained for 5 mins
 starring a semi-funny comedian!
 
-## Education
+#### Education
 The other big component of my day is being a student at UIUC! 
 Here is a link to UIUC's fun facts and bragging rights.
 Maybe its not worth $100 a day for four years (even the days I don't have classes!)
@@ -24,7 +24,7 @@ But at least I'm not from out of state :P
 ![Image](http://identitystandards.illinois.edu/assets/images/i_mark_bold.png)
 
 
-### Hobbies
+##### Hobbies
 Hobbies are healthy. 
 Here are some cool ones I do.
 
