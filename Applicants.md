@@ -6,6 +6,9 @@ but may include benefits which we can determine later. Here is a list of qualifi
 
 - Girl
 
+I understand that this extensive list may be overwhelming. The acceptance rate of 
+being my girlfriend may even be lower than UIUC's CS acceptance rate, but it never 
+hurts to apply!
 In terms of physical attributes, I do not like to appear racially selective however this 
 is a picture of what the ideal girlfriend would be for me.
 
