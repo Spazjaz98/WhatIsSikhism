@@ -49,4 +49,4 @@ pink. Dirt is
 brown. Roads are 
 
 This poem represents code that is not properly indented,
-and why checkstyle is a God although we complain.
+and why checkstyle is a blessing although we call it a curse.
